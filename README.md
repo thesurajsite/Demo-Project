@@ -27,8 +27,7 @@ A minimalist Mobile app to log and track volunteer hours across organizations, b
   - Cloud Firestore (CRUD operations for hours/organizations)  
 
 ---
-
-## 📸 Screenshots (Optional)  
+ 
 ## 📸 Screenshots  
 
 | Login Screen | Signup Screen | Home Screen | Add Hours | Profile Screen |

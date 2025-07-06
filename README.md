@@ -33,6 +33,6 @@ A minimalist Mobile app to log and track volunteer hours across organizations, b
 
 | Login Screen | Signup Screen | Home Screen | Add Hours | Profile Screen |
 |--------------|---------------|-------------|-----------|----------------|  
-| (./screenshots/image1.jpg) | ![Tracker](./screenshots/image2.jpg) | ![Profile](./screenshots/profile-section.jpg) |
+| ![Tracker](./screenshots/image1.jpg) | ![Tracker](./screenshots/image2.jpg) | ![Tracker](./screenshots/image3.jpg) | ![Tracker](./screenshots/image4.jpg) | ![Tracker](./screenshots/image5.jpg) |
 
 ---
